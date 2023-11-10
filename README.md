@@ -22,7 +22,7 @@ A collection of Linux drivers of various components for Gigabyte devices.
 | Gigabyte Aorus 15P (RTX 30 series)            |  1044:7A3B  |
 | Gigabyte Aorus 15G                            |  1044:7A3C  |
 | Gigabyte Aorus 17G YC (RTX 30 series)         |  1044:7A3C  |
-
+| Gigabyte Aorus 17G KD                         |  1044:7A3D  |
 
 
 ## Install Instructions
